@@ -1,4 +1,4 @@
-# Sofie Qi --- Data Analytics Portfolio
+# Sofie Qi --- Portfolio
 
 ### SQL Projects
 
