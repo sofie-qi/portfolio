@@ -1,4 +1,4 @@
-# Sofie Qi --- Portfolio
+# Sofie Qi's  Portfolio
 
 ### SQL Projects
 
