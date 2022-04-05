@@ -1,6 +1,6 @@
 # Projects Portfolio by Sofie Qi
 
-LinkedIn: https://www.linkedin.com/in/li-qi-ba60b449/
+LinkedIn: [https://www.linkedin.com/in/li-qi-ba60b449](https://www.linkedin.com/in/li-qi-ba60b449)
 
 ### SQL Projects
 
