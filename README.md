@@ -2,7 +2,21 @@
 
 LinkedIn: [https://www.linkedin.com/in/li-qi-ba60b449](https://www.linkedin.com/in/li-qi-ba60b449)
 
-Contact email: sofie.qi@gmail.com
+Email: sofie.qi@gmail.com
+
+Resume: [Li (Sofie) Qi - Resume.pdf](https://github.com/sofie-qi/portfolio/files/8414094/Li.Sofie.Qi.-.Resume.pdf)
+
+
+### About Me
+
+Much of my professional and educational background has been driven by my insatiable thirst for knowledge. Currently, I am leveraging my passion-powered problem-solving abilities, fluid adaptability, and integrity-backed work ethic to transition to data analytics. As a fast and avid learner, I am undergoing intense training in Python, SQL, R, and DevOps to bolster my competence, performance, capabilities, and productivity. Being fluent in both Mandarin and English provides me with unique cultural insight and well-positions me to navigate bilingual communications and negotiations with confidence and success.
+
+**Skills**: Python, SQL, R, Tableau, Excel, Spreadsheet, consecutive interpretation.
+
+* Currently enrolled in ****Nucamp**'s Backend with Python Bootcamp** - a 16-week Bootcamp that covers Python, SQL, and DevOps.
+* Recently received **Google Professional Data Analytics Certificate**.
+
+Other than my strong interest in data, I'm also a big fan of ukulele, skiing, and food :)
 
 ### SQL Projects
 
