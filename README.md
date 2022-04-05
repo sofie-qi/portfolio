@@ -2,6 +2,8 @@
 
 LinkedIn: [https://www.linkedin.com/in/li-qi-ba60b449](https://www.linkedin.com/in/li-qi-ba60b449)
 
+Contact email: sofie.qi@gmail.com
+
 ### SQL Projects
 
 [American Baby Name Trends](https://github.com/sofie-qi/Datacamp-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
