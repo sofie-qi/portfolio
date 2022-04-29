@@ -39,6 +39,10 @@ Other than my strong interest in data, I'm also a big fan of ukulele, skiing, an
 
 > This is a simple game I designed using Python during my back-end training at NuCamp. This game allows you to play card battle with the computer. You are allowed to select your card and the computer's card is selected randomly. You are allowed to replay the game until you lose 10 times. The code involves loop, list, function and etc.
 
+[Coffee Maker](https://github.com/sofie-qi/coffee-maker.git)
+
+> It allows the user to interact with the coffee machine menu, including choosing the type of coffee, checking resources, inserting coins and so on.
+
 ### R Projects
 
 [Health Insurance Cross Sale Prediction](https://github.com/sofie-qi/health-insurance-cross-sale-prediction/blob/main/cross-sale-prediction.ipynb)
