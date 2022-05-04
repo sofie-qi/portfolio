@@ -13,7 +13,7 @@ Much of my professional and educational background has been driven by my insatia
 
 **Skills**: Python, SQL, R, Tableau, Excel, Spreadsheet, consecutive interpretation.
 
-* Currently enrolled in **Nucamp's Backend with Python Bootcamp** - a 16-week Bootcamp that covers Python, SQL, and DevOps.
+* Recently graduated from **Nucamp's Backend with Python Bootcamp** - a 16-week Bootcamp that covers Python, SQL, and DevOps.
 * Recently received **Google Professional Data Analytics Certificate**.
 
 Other than my strong interest in data, I'm also a big fan of ukulele, skiing, and food :)
