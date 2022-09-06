@@ -1,4 +1,4 @@
-# Projects Portfolio by Sofie Qi
+# Projects Portfolio by Li (Sofie) Qi
 
 LinkedIn: [https://www.linkedin.com/in/li-qi-ba60b449](https://www.linkedin.com/in/li-qi-ba60b449)
 
