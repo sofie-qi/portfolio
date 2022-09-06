@@ -4,8 +4,6 @@ LinkedIn: [https://www.linkedin.com/in/li-qi-ba60b449](https://www.linkedin.com/
 
 Email: sofie.qi@gmail.com
 
-Resume: [Li (Sofie) Qi - Resume.pdf](https://github.com/sofie-qi/portfolio/files/8414094/Li.Sofie.Qi.-.Resume.pdf)
-
 
 ### About Me
 
@@ -35,6 +33,11 @@ Other than my strong interest in data, I'm also a big fan of ukulele, skiing, an
 * What is the average amount of debt owed by countries across different debt indicators?
 
 ### Python Projects
+[Password Manager](https://github.com/sofie-qi/password-manager/tree/main)
+
+<img src="https://user-images.githubusercontent.com/92130978/188654368-1ba8ed36-2e3d-4685-9bea-b0ee258c65cd.png" width="500">
+
+
 [Card Game ](https://github.com/sofie-qi/card-game-python.git)
 
 > This is a simple game I designed using Python during my back-end training at NuCamp. This game allows you to play card battle with the computer. You are allowed to select your card and the computer's card is selected randomly. You are allowed to replay the game until you lose 10 times. The code involves loop, list, function and etc.
